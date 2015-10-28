@@ -1,0 +1,3 @@
+[submodule "bugtest3"]
+	path = submodules/bugtest3
+	url = git@github.com:mathias-baumann-sociomantic/bugtest3.git
